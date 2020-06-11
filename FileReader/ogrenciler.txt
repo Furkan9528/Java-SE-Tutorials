@@ -1,0 +1,8 @@
+Mustafa Murat Coskun,Bilgisayar Muhendisligi
+Oguz Artiran,Finansal Matematik
+Mehmet Gençol,Bilgisayar Muhendisligi
+Yusuf Mücahit Çetinkaya,Isletme
+Görkem Özer,Istatistik
+Semih Aktas,Bilgisayar Muhendisligi
+Hasan Bayhan,Isletme
+Ali Ozan,Insaat Mühendisligi
