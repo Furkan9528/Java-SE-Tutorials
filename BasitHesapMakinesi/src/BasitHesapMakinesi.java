@@ -210,7 +210,7 @@ public class BasitHesapMakinesi extends javax.swing.JFrame {
     private javax.swing.JTextField ikinci;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel3; 
     private javax.swing.JTextField sonuc;
     // End of variables declaration//GEN-END:variables
 }
