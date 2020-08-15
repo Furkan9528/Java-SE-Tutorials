@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		IOgrenci ogrenci=new IOgrenci() {
 			
-			@Override
+			@Override 
 			public void derse_gir() {
 				System.out.println("Ders çalışıyorum...");
 				
