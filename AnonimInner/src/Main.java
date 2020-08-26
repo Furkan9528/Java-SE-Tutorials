@@ -6,7 +6,7 @@ public class Main {
 			
 			@Override 
 			public void derse_gir() {
-				System.out.println("Ders çalışıyorum...");
+				System.out.println("Ders çalışıyorum..."); 
 				
 			}
 			
